@@ -1,12 +1,9 @@
-# Hello, I am `index.md`
+# Benjamin Evans
+
+## Introduction
+
+I am busy doing my PhD in Electronic engineering at Stellenbosch University in South Africa.
+My research is focused on combining reinforcement learning and classical control systems to form hybrid planning architectures.
 
 
-Example code block:
-```javascript
-const arr = []
-const [] = arr
-```
 
-
-Quote:
->  for a transitory enchanted moment man must have held his breath in the presence of this continent, compelled into an aesthetic contemplation he neither understood nor desired, face to face for the last time in history with something commensurate to his capacity for wonder.
